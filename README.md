@@ -25,3 +25,9 @@ with best practices and solve the task as intended.
 **⭐️ React**<br> 
 **⭐️  Flask** <br>
 
+🔴 Tested Models :
+
+**⭐️ CodeLLaMA:13B** <br>
+**⭐️ DeepSeek-Coder** <br>
+**⭐️ Mistral** <br>
+
